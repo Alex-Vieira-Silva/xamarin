@@ -1,0 +1,2 @@
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\AppFormsRLSystem\AppFormsRLSystem\AppFormsRLSystem.UWP\AppFormsRLSystem.UWP.csproj;x86
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\AppFormsRLSystem\AppFormsRLSystem\AppFormsRLSystem\AppFormsRLSystem.csproj;neutral
